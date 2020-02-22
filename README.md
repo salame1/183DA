@@ -1,4 +1,4 @@
-# 183DA MDP_solver
+# 183DA MDP_solver (view this in raw!)
 robots!(but mostly theory)
 
 Instructions:
