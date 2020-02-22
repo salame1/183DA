@@ -64,7 +64,7 @@ Additional Scenarios (using policy iteration)
     v - - v <
     > > o < <
     This policy seems to converge on the +1 state too since rewards die off quickly. It seems at the top where its      impossible to reach the rewards quickly, the optimal move is to give up.
-    
+
     The error probability was set to 0, the policy output was:
     v v v v <
     v > > v <
